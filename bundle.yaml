@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "ikurtz-likes-to-casc-dev-controller"
+description: "CloudBees CI configuration bundle for the ikurtz-likes-to-casc dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/ikurtz-likes-to-casc/dev-controller"
+parent: "base"
